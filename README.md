@@ -1,4 +1,4 @@
-# Become an AI Master
+# AI Engineering: Hands-on
 
 A complete, hands-on to becoming a good AI Engineer.
 
