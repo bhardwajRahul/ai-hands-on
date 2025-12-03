@@ -1,4 +1,10 @@
 # AI Engineering: Hands-on
+![Stars](https://img.shields.io/github/stars/Ramakm/ai-hands-on?style=flat-square)
+![Forks](https://img.shields.io/github/forks/Ramakm/ai-hands-on?style=flat-square)
+![PRs](https://img.shields.io/github/issues-pr/Ramakm/ai-hands-on?style=flat-square)
+![Issues](https://img.shields.io/github/issues/Ramakm/ai-hands-on?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/Ramakm/ai-hands-on?style=flat-square)
+![License](https://img.shields.io/github/license/Ramakm/ai-hands-on?style=flat-square)
 
 A complete, hands-on to becoming a good AI Engineer.
 
